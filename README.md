@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey, I'm Bret 👋
 
-<!--
-**bretfriedrich/bretfriedrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Architect. I build security programs that reduce actual risk - not just audit checkboxes.
 
-Here are some ideas to get you started:
+Currently at **Colorado College** running the security architecture and operations program.  
+Building **In Stealth** - an independent consultancy for SMBs and higher ed. Launching full-time in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+
+**Identity & Cloud Security**  
+Microsoft Entra ID P2 · Defender XDR · Microsoft Sentinel · Intune · Purview · Global Secure Access
+
+**Endpoint & Detection**  
+CrowdStrike Falcon · Varonis · KnowBe4 · Jamf Pro · Duo MFA
+
+**Frameworks**  
+NIST CSF 2.0 · NIST 800-53 · GLBA Safeguards Rule · Zero Trust Architecture
+
+---
+
+### Currently
+
+- 🔵 Building Zero Trust infrastructure at CC (Conditional Access, PIM, Entra ID Protection)
+- 🟣 Growing Stealth - security readiness assessments and GRC for mid-market orgs
+- 📚 Studying for CISSP - CISM - Cloud Architecture
+- 🔍 KQL threat hunting across identity, endpoint, and cloud workloads
+
+---
+
+### Find me
+
