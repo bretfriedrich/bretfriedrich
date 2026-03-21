@@ -31,4 +31,4 @@ NIST CSF 2.0 · NIST 800-53 · GLBA Safeguards Rule · Zero Trust Architecture
 
 ### Find me
 
-💼 [LinkedIn](https://linkedin.com/in/bretfriedrich)
+💼 [LinkedIn](https://www.linkedin.com/in/friedrichbret/)
