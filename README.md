@@ -2,8 +2,8 @@
 
 Security Architect. I build security programs that reduce actual risk - not just audit checkboxes.
 
-Currently at **Colorado College** running the security architecture and operations program.  
-Building **In Stealth** - an independent consultancy for SMBs and higher ed. Launching full-time in 2027.
+Currently working in higher ed running the security architecture and operations program. Prior Big 4 and Fortune 200. 
+Building something new - an independent consultancy for SMBs and higher ed. Launching full-time in 2027.
 
 ---
 
@@ -24,10 +24,11 @@ NIST CSF 2.0 · NIST 800-53 · GLBA Safeguards Rule · Zero Trust Architecture
 
 - 🔵 Building Zero Trust infrastructure at CC (Conditional Access, PIM, Entra ID Protection)
 - 🟣 Growing Stealth - security readiness assessments and GRC for mid-market orgs
-- 📚 Studying for CISSP - CISM - Cloud Architecture
+- 📚 Studying for CISSP.
 - 🔍 KQL threat hunting across identity, endpoint, and cloud workloads
 
 ---
 
 ### Find me
 
+💼 [LinkedIn](https://linkedin.com/in/bretfriedrich)
