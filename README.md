@@ -17,10 +17,7 @@ CrowdStrike Falcon · Varonis · KnowBe4 · Jamf Pro
 NIST CSF 2.0 · NIST 800-53 · GLBA Safeguards Rule · Zero Trust Architecture
 
 ---
-### Currently
-- 🟣 Building an independent vCISO and security governance practice (stealth)
-- 🔵 Building Zero Trust infrastructure at CC (Conditional Access, PIM, Entra ID Protection)
-- 🔍 KQL threat hunting across identity, endpoint, and cloud workloads
+
 
 ---
 ### Find me
