@@ -1,9 +1,7 @@
 ## Hey, I'm Bret 👋
-Security Architect · Deputy CISO
 
-I build security programs that reduce actual risk -- not just audit checkboxes.
-Currently running security architecture and operations in higher ed.
-Prior Big 4 and Fortune 200. Five years enterprise risk management before that.
+
+
 
 ---
 ### What I work with
